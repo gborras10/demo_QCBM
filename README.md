@@ -377,7 +377,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{qcbm_financial_modeling,
   title={Quantum Circuit Born Machine for Financial Modeling},
-  author={Your Name},
+  author={Guillem Borràs},
   year={2026},
   url={https://github.com/gborras10/demo_QCBM}
 }
