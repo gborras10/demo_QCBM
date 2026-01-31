@@ -30,6 +30,7 @@ demo_QCBM/
 │   ├── training_utils.py       # Optimization utilities
 │   ├── plotting_utilities.py   # Visualization functions
 │   └── __init__.py
+├── requirements.txt
 └── README.md
 ```
 
